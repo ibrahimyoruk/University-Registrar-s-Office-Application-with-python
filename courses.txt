@@ -1,0 +1,7 @@
+CENG1001;Programing Fundamentals;Barış Ethem Süzek;8
+CENG1002;Computer Science;Barış İşçi Pembeci;10
+CENG1003;General Physics;Cahit Karanfil;7
+CENG1004;Calculus;Gözde Yaylalı;15
+CENG1005;Academic Writing;Müzeyyen Aykaç;6
+
+
